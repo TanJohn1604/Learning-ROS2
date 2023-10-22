@@ -1,0 +1,28 @@
+[0.235s] Invoking command in '/home/tan/Documents/workspace/ROS2_py_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=/home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_description:/home/tan/Documents/workspace/ROS2_py_ws/install/ros2_user_pkg:/opt/ros/humble /usr/bin/cmake --build /home/tan/Documents/workspace/ROS2_py_ws/build/my_robot_bringup -- -j4 -l4
+[0.319s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.680s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.852s] -- Configuring done
+[0.855s] -- Generating done
+[0.856s] -- Build files have been written to: /home/tan/Documents/workspace/ROS2_py_ws/build/my_robot_bringup
+[0.943s] Invoked command in '/home/tan/Documents/workspace/ROS2_py_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=/home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_description:/home/tan/Documents/workspace/ROS2_py_ws/install/ros2_user_pkg:/opt/ros/humble /usr/bin/cmake --build /home/tan/Documents/workspace/ROS2_py_ws/build/my_robot_bringup -- -j4 -l4
+[1.056s] Invoking command in '/home/tan/Documents/workspace/ROS2_py_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=/home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_description:/home/tan/Documents/workspace/ROS2_py_ws/install/ros2_user_pkg:/opt/ros/humble /usr/bin/cmake --install /home/tan/Documents/workspace/ROS2_py_ws/build/my_robot_bringup
+[1.084s] -- Install configuration: ""
+[1.084s] -- Execute custom install script
+[1.084s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/launch/my_robot_gazebo.launch
+[1.084s] -- Symlinking: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/rviz/urdf_config.rviz
+[1.100s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+[1.101s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+[1.101s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+[1.101s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.dsv
+[1.101s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+[1.104s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.dsv
+[1.104s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+[1.104s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+[1.105s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+[1.106s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.dsv
+[1.106s] -- Symlinking: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/package.dsv
+[1.141s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+[1.141s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+[1.141s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+[1.142s] -- Up-to-date symlink: /home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_bringup/share/my_robot_bringup/package.xml
+[1.287s] Invoked command in '/home/tan/Documents/workspace/ROS2_py_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=/home/tan/Documents/workspace/ROS2_py_ws/install/my_robot_description:/home/tan/Documents/workspace/ROS2_py_ws/install/ros2_user_pkg:/opt/ros/humble /usr/bin/cmake --install /home/tan/Documents/workspace/ROS2_py_ws/build/my_robot_bringup

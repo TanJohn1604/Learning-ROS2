@@ -1,0 +1,14 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "/home/tan/Documents/workspace/ROS2_py_ws/src/ros2_user_pkg",
+    "python.autoComplete.extraPaths": [
+        "/home/tan/Documents/workspace/ROS2_py_ws/install/ros2_user_pkg/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/tan/Documents/workspace/ROS2_py_ws/install/ros2_user_pkg/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

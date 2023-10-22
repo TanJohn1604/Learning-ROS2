@@ -1,0 +1,4 @@
+Invoking command in '/home/tan/Documents/workspace/ROS2_py_ws/build/ros2_user_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tan/Documents/workspace/ROS2_py_ws/build/ros2_user_pkg -- -j4 -l4
+Invoked command in '/home/tan/Documents/workspace/ROS2_py_ws/build/ros2_user_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tan/Documents/workspace/ROS2_py_ws/build/ros2_user_pkg -- -j4 -l4
+Invoking command in '/home/tan/Documents/workspace/ROS2_py_ws/build/ros2_user_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/tan/Documents/workspace/ROS2_py_ws/build/ros2_user_pkg
+Invoked command in '/home/tan/Documents/workspace/ROS2_py_ws/build/ros2_user_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/tan/Documents/workspace/ROS2_py_ws/build/ros2_user_pkg
